@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Resource Files\Images">
+      <UniqueIdentifier>{85835f9e-d82d-4a59-8ffb-74f02a151f4a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="box.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image002.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image003.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image004.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image005.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image006.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image007.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image008.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image009.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image010.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image011.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image012.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image013.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image014.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image015.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image016.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image017.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image018.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image019.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image020.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image021.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="image022.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="test1.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+    <None Include="NEW_IMAGE.ppm">
+      <Filter>Resource Files\Images</Filter>
+    </None>
+  </ItemGroup>
+</Project>
